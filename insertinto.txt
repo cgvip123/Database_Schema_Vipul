@@ -1,0 +1,40 @@
+insert into capstore_admin values('7530124558','mahesh@gmail.com','Mahesh','password');
+ insert into capstore_admin values('7894561230','ramesh@gmail.com','Ramesh','password');
+insert into capstore_admin values('0123456789','suresh@gmail.com','Suresh','password');
+insert into capstore_admin values('7530124558','mahesh@gmail.com','Mahesh','password');
+
+
+
+
+insert into coupon values('CN1004',0,'Code4','70','20-JUL-2019');
+insert into coupon values('CN1003',0,'Code3','20','20-MAY-2019');
+insert into coupon values('CN1002',1,'Code2','50','20-APR-2019');
+insert into coupon values('CN1001',0,'Code1','25','20-JUN-2019');
+
+
+
+
+insert into feedback values('F1004','Good','2.0');
+insert into feedback values('F1003','Bad','4.0');
+insert into feedback values('F1002','Bad','3.0');
+insert into feedback values('F1001','Good','4.0');
+
+
+insert into wishlist values('W1001');
+insert into wishlist values('W1002');
+insert into wishlist values('W1003');
+insert into wishlist values('W1004');
+
+
+ insert into customer values('7500349800',1,'29-JUL-1999','ramesh@gmail.com','M','Ramesh','qwertyuiop','C1001','W1001');
+ insert into customer values('7500349801',1,'29-JUL-1999','ramesh@gmail.com','M','Ramesh','qwertyuiop','C1002','W1002');
+insert into customer values('7500349845',1,'29-JUL-1995','suresh@gmail.com','M','Suresh','qwertyuiop','C1003','W1003');
+ insert into customer values('7500348521',0,'28-JUL-1995','dinesh@gmail.com','M','Dinesh','qwertyuiop','C1004','W1004');
+
+insert into savedcard values('S1001','7894512367584126','Ramesh',2024,05,'7500349800');
+insert into savedcard values('S1002','7894512367584754','Suresh',2023,06,7500349845);
+ insert into savedcard values('S1003','7894512367588521','Dinesh',2025,07,'7500348521');
+
+
+
+
